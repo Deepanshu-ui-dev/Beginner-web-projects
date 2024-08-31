@@ -15,4 +15,4 @@ This repository is designed for those who are starting their journey into web de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/beginner-web-projects.git
+   git clone https://github.com/Deepanshu-ui-dev/Beginner-web-projects
